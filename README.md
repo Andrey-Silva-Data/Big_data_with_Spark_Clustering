@@ -49,4 +49,4 @@ Neste laboratório, vamos realizar uma análise sobre um banco de dados composto
 ---
 
 ## 📜 Licença
-© 2025 Andrey Silva - Todos os direitos reservados.
+© 2026 Andrey Silva - Todos os direitos reservados.
